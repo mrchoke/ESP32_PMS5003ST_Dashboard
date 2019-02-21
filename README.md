@@ -1,6 +1,8 @@
 # ESP32_PMS5003ST_Dashboard
 ESP32 and PLATOWER PMS5003ST Dashboard (VueJs + VuetifyJs) and WebSoket
 
+![Dashboard](https://github.com/mrchoke/ESP32_PMS5003ST_Dashboard/raw/master/IMG_0103.jpg)
+
 ## How to use
 
 ### Install PMS5003ST lib 
